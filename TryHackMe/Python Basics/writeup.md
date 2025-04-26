@@ -1,4 +1,4 @@
-# Python Fundamentals (TryHackMe)
+# Python Basics (TryHackMe)
 
 ## 🧠 Description
 The room gives a basic understanding of Python programming language.
