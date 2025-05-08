@@ -22,5 +22,7 @@ ls -la
 
 #Step 4: Run with the cat commands to display the password in the directory given above
 ./bandit20-do cat /etc/bandit_pass/bandit20
-
-
+```
+## 📌 Key Takeaways
+- Learned about setuid binary for the first time
+- Implemented a setuid to beat the level

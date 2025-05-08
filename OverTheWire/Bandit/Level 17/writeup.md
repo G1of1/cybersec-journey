@@ -12,4 +12,6 @@ There are 2 files in the homedirectory: passwords.old and passwords.new. The pas
 ```bash
 # Step 1: Compare both files using diff
 diff passwords.old passwords.new
-
+```
+## 📌 Key Takeaways
+- Learned about the diff command for the first time and implemented it

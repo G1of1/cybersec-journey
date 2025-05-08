@@ -19,3 +19,7 @@ ssh bandit11@bandit.labs.overthewire.org -p 2220
 cat data.txt
 
 #Step 3: Use rot13 decoder to decypher the password
+
+```
+## 📌 Key Takeaways
+- Learned about rot13

@@ -20,4 +20,6 @@ base64 data.txt
 
 #Step 3: Use -d to view the string
 cat data.txt | base64 -d
-
+```
+## 📌 Key Takeaways
+- Learned about the base64 command and some of its use cases

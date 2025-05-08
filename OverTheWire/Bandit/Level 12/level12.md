@@ -43,3 +43,9 @@ gzip -d hexdump.gz
 tar -xvf hexdump
 
 #Step 10: Use file to determine the type of file, repeat until file is ASCII
+```
+## 📌 Key Takeaways
+- Learned about gzip, tar, mv and other commands.
+- Learned about hexdumps
+- Learned about compression tools in Linux
+

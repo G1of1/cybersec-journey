@@ -27,4 +27,7 @@ ls
 
 #Step 4: Find the correct file given the properties
 find . -type f -size 1033c ! -executable
+```
 
+## 📌 Key Takeaways
+- Learned using commands and different ways of using a command

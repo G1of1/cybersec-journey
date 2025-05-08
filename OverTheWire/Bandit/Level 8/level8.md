@@ -16,3 +16,7 @@ ssh bandit8@bandit.labs.overthewire.org -p 2220
 
 # Step 2: Use cat to find with sort, unqiue and count to find the password
 cat data.txt | sort | uniq -c
+```
+
+## 📌 Key Takeaways
+- Learned the sort command and some of the its unique use cases such as this level.

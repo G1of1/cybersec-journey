@@ -17,3 +17,6 @@ ssh bandit7@bandit.labs.overthewire.org -p 2220
 
 # Step 2: Use grep to find the millionth to see the words near millionth
 grep "millionth" data.txt
+```
+## 📌 Key Takeaways
+- Learned to use the command grep and figure out some of its use cases

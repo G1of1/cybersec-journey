@@ -39,3 +39,8 @@ chmod 600 rsafile
 #Step 7: Use the rsa key to enter bandit17
 
 ssh -i rsafile bandit17@localhost -p 2220
+```
+## 📌 Key Takeaways
+- Learned about the versatility of nmap
+- Implemented chmod for privilege escalation
+

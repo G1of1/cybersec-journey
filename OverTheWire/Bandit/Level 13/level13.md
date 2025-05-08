@@ -22,3 +22,7 @@ ssh bandit14@localhost -p 2220 -i sshkey.private
 
 #Step 4: Print the password
 cat /etc/bandit_pass/bandit14
+```
+
+## 📌 Key Takeaways
+- Learned about private ssh keys and how they are used to establish connections

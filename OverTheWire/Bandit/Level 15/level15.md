@@ -18,4 +18,6 @@ ssh bandit15@bandit.labs.overthewire.org -p 2220
 openssl -s_client -connect localhost:30001
 
 #Step 3: Paste the password to beat the level
-
+```
+## 📌 Key Takeaways
+- Learned about openssl and some its use cases
